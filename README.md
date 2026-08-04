@@ -1,20 +1,16 @@
-## Hi there 👋
-
-<!--
-**AhmedNawaz8813/AhmedNawaz8813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Nawaz&fontSize=50&animation=fadeIn" alt="Header" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Computer+Science+Student+@+FAST-NUCES;Research+Intern+@+SID+Lab+%26+NuSYS+Lab;Machine+Learning,+NLP,+%26+Computer+Vision+Engineer" alt="Typing SVG" />
-</div>
+</p>
 
-<br/>
+<br>
 
 ## 👨‍💻 About Me
-* 🎓 Senior Computer Science student at **FAST-NUCES** .
+* 🎓 Senior Computer Science student at **FAST-NUCES**.
 * 🔭 I am a Research Intern at the **SID Lab** and an Intern at **NuSYS Lab**.
 * 💡 I have a strong passion for building intelligent systems, specializing in **Deep Learning, Computer Vision, and Natural Language Processing**.
 * 🥊 **Beyond the screen:** When I'm not training models, I'm usually hitting the boxing bag, analyzing MMA fights, studying chess strategies or hitting apexes in sim racing.
@@ -48,31 +44,20 @@
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedNawaz8813&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNawaz8813&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+</p>
 
-<br/>
+<br>
 
 ### 📈 GitHub Contribution Graph
-<div align="center">
+<p align="center">
   <img src="https://ghchart.rshah.org/2ecc71/AhmedNawaz8813" alt="GitHub Contribution Graph" />
-</div>
+</p>
 
 ## 📫 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmednawaz8813/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ahmednawaz8813@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ahmednawaz8813/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmednawaz8813@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
