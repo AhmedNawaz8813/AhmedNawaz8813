@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Computer+Science+Student+@+FAST-NUCES;Research+Intern+@+SID+Lab+%26+NuSYS+Lab;Machine+Learning,+NLP,+%26+Computer+Vision+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Computer+Science+Undergrad+@+FAST-NUCES;Research+Intern+@+SID+Lab+%26+NuSYS+Lab;Machine+Learning,+NLP,+%26+Computer+Vision+Engineer" alt="Typing SVG" />
 </p>
 
 <br>
 
 ## 👨‍💻 About Me
-* 🎓 Senior Computer Science student at **FAST-NUCES**.
+* 🎓 Senior Computer Science Undergrad at **FAST-NUCES**.
 * 🔭 I am a Research Intern at the **SID Lab** and an Intern at **NuSYS Lab**.
 * 💡 I have a strong passion for building intelligent systems, specializing in **Deep Learning, Computer Vision, and Natural Language Processing**.
 * 🥊 **Beyond the screen:** When I'm not training models, I'm usually hitting the boxing bag, analyzing MMA fights, studying chess strategies or hitting apexes in sim racing.
@@ -22,9 +22,9 @@
   </a>
 </p>
 
-* **Programming Languages:** Python, C, C++, SQL, Dart, NASM Assembly Language
+* **Programming Languages:** Python, C, C++, SQL, Dart, NASM Assembly Language, JAVA
 * **Machine Learning & Data Science:** TensorFlow, Keras, scikit-learn, pandas, NumPy, Jupyter Notebook, Matplotlib, PyTorch, LangChain, HuggingFace
-* **Computer Vision & OCR:** OpenCV, MediaPipe, OCR, Computer Vision
+* **Computer Vision & OCR:** OpenCV, MediaPipe, Ultralytics YOLO, OCR, Computer Vision
 * **App & UI Development:** Flutter, Tkinter
 * **Databases & Backend:** MySQL, PostgreSQL, MongoDB, Oracle SQL Developer, SQLStudio, Firebase Authentication
 * **Domains:** Reinforcement Learning, Text Classification, Predictive Analytics
@@ -32,6 +32,7 @@
 
 ## 🚀 Featured Work
 * **Machine Learning Pipelines:** Evaluated various architectures for optimal predictive capabilities. Successfully tuned a Random Forest model (Accuracy: **0.9960**) and Neural Networks (Accuracy: **0.9444**).
+* **Formula 1 Laptime Predictor** Built a deep learning network from scratch, trained on past data to predict pole lap time, predicting a time just off by half a second.
 * **Computer Vision Sports Tracker:** Built a custom CV motion tracking script utilizing OpenCV and Mediapipe Pose Landmarks to analyze and track speed/movement during heavy boxing bagwork sessions.
 
 ## 💼 Experience Highlights
@@ -51,9 +52,13 @@
 
 <br>
 
-### 📈 GitHub Contribution Graph
+### 📈 3D GitHub Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ecc71/AhmedNawaz8813" alt="GitHub Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D GitHub Contribution Graph" src="profile-3d-contrib/profile-green-animate.svg">
+  </picture>
 </p>
 
 ## 📫 Let's Connect
