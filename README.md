@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 * 🎓 Senior Computer Science Undergrad at **FAST-NUCES**.
-* 🔭 I am a Research Intern at the **SID Lab** and an Intern at **NuSYS Lab**.
+* 🔭 I am a Intern at **NuSYS Lab**.
 * 💡 I have a strong passion for building intelligent systems, specializing in **Deep Learning, Computer Vision, and Natural Language Processing**.
 * 🥊 **Beyond the screen:** When I'm not training models, I'm usually hitting the boxing bag, analyzing MMA fights, studying chess strategies or hitting apexes in sim racing.
 
