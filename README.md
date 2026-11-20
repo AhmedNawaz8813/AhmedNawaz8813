@@ -1,19 +1,14 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Nawaz&fontSize=50&animation=fadeIn" alt="Header" />
-</p>
+<h1 align="center">Ahmed Nawaz</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2ecc71&center=true&vCenter=true&width=650&lines=Computer+Science+Undergrad+@+FAST-NUCES;Machine+Learning,+NLP,+%26+Computer+Vision+Engineer" alt="Typing SVG" />
-</p>
 
 <br>
 
 ## 👨‍💻 About Me
-* 🎓 Senior Computer Science Undergrad at **FAST-NUCES**.
-* 🔭 I am a Intern at **NuSYS Lab**.
-* 💡 I have a strong passion for building intelligent systems, specializing in **Deep Learning, Computer Vision, and Natural Language Processing**.
-* 🥊 **Beyond the screen:** When I'm not training models, I'm usually hitting the boxing bag, analyzing MMA fights, studying chess strategies or hitting apexes in sim racing.
+- 🎓 Senior Computer Science Undergrad at **FAST-NUCES**.
+- 🔭 I am currently an Intern at **NuSYS Lab**.
+- 💡 I have a strong passion for building intelligent systems, specializing in **Neural Networks, Deep Learning, Computer Vision, and Natural Language Processing**.
+- 🥊 **Beyond the screen:** I'm usually analyzing MMA fights, working out at the gym, studying chess strategies, or sim racing.
 
 ## 🛠️ Languages and Tools
 <p align="left">
@@ -22,47 +17,32 @@
   </a>
 </p>
 
-* **Programming Languages:** Python, C, C++, SQL, Dart, NASM Assembly Language, JAVA
-* **Machine Learning & Data Science:** TensorFlow, Keras, scikit-learn, pandas, NumPy, Jupyter Notebook, Matplotlib, PyTorch, LangChain, HuggingFace
-* **Computer Vision & OCR:** OpenCV, MediaPipe, Ultralytics YOLO, OCR, Computer Vision
-* **App & UI Development:** Flutter, Tkinter
-* **Databases & Backend:** MySQL, PostgreSQL, MongoDB, Oracle SQL Developer, SQLStudio, Firebase Authentication
-* **Domains:** Reinforcement Learning, Text Classification, Predictive Analytics
-* **Technical Writing:** LaTeX / Overleaf
+- **Programming Languages:** Python, C, C++, SQL, Dart, Java
+- **Machine Learning & Data Science:** PyTorch, TensorFlow, Keras, scikit-learn, pandas, NumPy, Jupyter Notebook, Matplotlib, LangChain, HuggingFace
+- **Computer Vision & OCR:** OpenCV, MediaPipe, Ultralytics YOLO, OCR, SpinePose
+- **App & UI Development:** Flutter, Tkinter
+- **Databases & Backend:** MySQL, PostgreSQL, MongoDB, Oracle SQL Developer, SQLStudio, Firebase Authentication
+- **Domains:** Deep Learning, Transformers, Large Language Models (LLMs), Parameter-Efficient Fine-Tuning (LoRA), Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, Text Classification, Predictive Analytics
+- **Technical Writing:** LaTeX / Overleaf
 
 ## 🚀 Featured Work
-* **Machine Learning Pipelines:** Evaluated various architectures for optimal predictive capabilities. Successfully tuned a Random Forest model (Accuracy: **0.9960**) and Neural Networks (Accuracy: **0.9444**).
-* **Formula 1 Laptime Predictor** Built a deep learning network from scratch, trained on past data to predict pole lap time, predicting a time just off by half a second.
-* **Computer Vision Sports Tracker:** Built a custom CV motion tracking script utilizing OpenCV and Mediapipe Pose Landmarks to analyze and track speed/movement during heavy boxing bagwork sessions.
+- **MyoMotion (Final Year Project — In Progress):** Engineering a multimodal biomechanics system fusing computer vision pose estimation (OpenCV, MediaPipe, SpinePose) with wireless ESP32 sEMG telemetry to analyze exercise kinematics, assess real-time form, and predict individual neuromuscular recruitment and activation.
+- **Fake News Detection with Meta LLaMA 3.0:** Fine-tuned 8B parameter Meta LLaMA 3.0 to detect false news, achieving **89%** accuracy.
+- **Machine Learning Pipelines:** Evaluated various architectures for optimal predictive capabilities, successfully tuning Random Forest and Neural Network models.
+- **Formula 1 Laptime Predictor:** Built a deep learning network from scratch, trained on past data to predict pole lap times within half a second of actual qualifying results.
+- **Computer Vision Sports Tracker:** Built a custom CV motion tracking script utilizing OpenCV and MediaPipe Pose Landmarks to analyze and track speed/movement during heavy boxing bagwork sessions.
 
 ## 💼 Experience Highlights
 | Role | Organization | Date |
 | :--- | :--- | :--- |
-| **Research Intern** | SID Lab | Present |
 | **Intern** | NuSYS Lab | Present |
+| **Research Intern** | SID Lab | Jun 2026 - Sep 2026 |
 | **Ambassador** | AI Symposium, Global Surgery Regional Hub | Jan 2026 - Jun 2026 |
 | **Software Intern** | Fynch Consulting | Aug 2025 |
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNawaz8813&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNawaz8813&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<br>
-
-### 📈 3D GitHub Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D GitHub Contribution Graph" src="profile-3d-contrib/profile-green-animate.svg">
-  </picture>
-</p>
 
 ## 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmednawaz8813/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/ahmednawaz8813" target="_blank"><img src="https://img.shields.io/badge/-Hugging%20Face-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmednawaz8813@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
